@@ -1,0 +1,47 @@
+<paragraph>
+<sentence>
+    <word id="b2e7b75d-18ad-4b2b-bfb9-fbe6a0d67b69" color="white" tag="O" isEndTag="false">#URL:</word>
+    <word id="11280d1b-c6b4-4177-bf85-b3de2ee17ecf" color="white" tag="O" isEndTag="false">https://en.wikipedia.org/wiki/Pundibari</word>
+</sentence>
+<sentence>
+    <word id="9089556a-0724-4acd-8168-62e217a96b98" color="white" tag="O" isEndTag="false">#Time:</word>
+    <word id="356a98db-db97-4431-93ae-184d7fb61c02" color="white" tag="O" isEndTag="false">08-06-2025</word>
+    <word id="ef94f4f0-2610-4e70-94bf-448d35c92172" color="white" tag="O" isEndTag="false">10:09</word>
+    <word id="bc107e0a-5ad7-456c-8c36-cb8f2ba79bc4" color="white" tag="O" isEndTag="false">PM</word>
+</sentence>
+<sentence>
+    <word id="583e8309-a35c-46f9-b0a3-06484af73570" color="white" tag="O" isEndTag="false">#Domain:</word>
+    <word id="c41b30ec-d84d-4bd3-8f81-58bc606c8890" color="white" tag="O" isEndTag="false">village</word>
+</sentence>
+<sentence>
+    <word id="0af4b95e-aec0-4809-96ab-738ec798ffd4" color="white" tag="O" isEndTag="false"></word>
+</sentence>
+<sentence>
+    <word id="587b1884-12f3-43b7-a128-84f942915905" color="hsl(164, 60%, 62%)" tag="b-NEL" isEndTag="true">Pundibari</word>
+    <word id="a1e7d057-7f16-4a1d-bd7e-f0d539e1a2b4" color="white" tag="O" isEndTag="false">is</word>
+    <word id="b86ebaf7-bc67-4dc2-aed9-2166b47df071" color="white" tag="O" isEndTag="false">a</word>
+    <word id="9cb58b0f-9d94-4f67-9e33-b10a47c2bb87" color="white" tag="O" isEndTag="false">village</word>
+    <word id="1b26e770-879c-49d6-b606-51e153966435" color="white" tag="O" isEndTag="false">in</word>
+    <word id="68a931b9-80ec-487a-8366-79383a9396fc" color="white" tag="O" isEndTag="false">the</word>
+    <word id="097eba3d-d3e6-4af5-9819-3255ddab4237" color="hsl(164, 60%, 62%)" tag="b-NEL" isEndTag="false">Cooch</word>
+    <word id="d7a476d9-2ee4-445b-9a55-3e712c76f3e6" color="hsl(164, 60%, 62%)" tag="i-NEL" isEndTag="true">Behar</word>
+    <word id="1a031a60-8a68-4b8a-bca0-0a95f08d5c78" color="white" tag="O" isEndTag="false">II</word>
+    <word id="88d961f6-3527-4f42-98a7-6970373f24be" color="white" tag="O" isEndTag="false">CD</word>
+    <word id="a2e84601-c4f2-46e3-9d61-2395151e5f3f" color="white" tag="O" isEndTag="false">block</word>
+    <word id="af65c885-8166-4d3f-b9e6-4f8dc1899b34" color="white" tag="O" isEndTag="false">in</word>
+    <word id="ec09714b-d238-47a4-b2cd-fa026d059443" color="white" tag="O" isEndTag="false">the</word>
+    <word id="6069941d-8884-4186-8b16-0cfdcf19a28e" color="white" tag="O" isEndTag="false">Cooch</word>
+    <word id="17d806bc-6bf1-4d1a-95f7-0e2b7a7c4af0" color="white" tag="O" isEndTag="false">Behar</word>
+    <word id="21cd0c6f-6ae8-4552-af94-36292d16deb2" color="white" tag="O" isEndTag="false">Sadar</word>
+    <word id="19a421c2-9c9f-4330-a654-7e1664414803" color="white" tag="O" isEndTag="false">subdivision</word>
+    <word id="1874255d-9400-47ad-950c-d9d99308da6a" color="white" tag="O" isEndTag="false">of</word>
+    <word id="1252eb52-5d5d-4cd3-b49c-cbdf10146fe0" color="white" tag="O" isEndTag="false">the</word>
+    <word id="5abb6f51-5848-4546-b4db-803e6859882c" color="white" tag="O" isEndTag="false">Cooch</word>
+    <word id="e0765470-8007-4999-a4cc-e530f02d8843" color="white" tag="O" isEndTag="false">Behar</word>
+    <word id="a0125e7d-7a67-4d06-afa5-ab29a06b9a4d" color="white" tag="O" isEndTag="false">district</word>
+    <word id="e5bad790-6f3f-4381-8202-5d9e4d4b0942" color="white" tag="O" isEndTag="false">of</word>
+    <word id="3a9ab098-97a1-4960-93b3-6931163622b9" color="hsl(164, 60%, 62%)" tag="b-NEL" isEndTag="false">West</word>
+    <word id="b3d6b407-12eb-41c9-b2a9-1bbc1061732b" color="hsl(164, 60%, 62%)" tag="i-NEL" isEndTag="false">Bengal,</word>
+    <word id="d52e4a78-4c2b-492f-a77f-0db3fbe527df" color="hsl(164, 60%, 62%)" tag="i-NEL" isEndTag="true">India.</word>
+</sentence>
+</paragraph>

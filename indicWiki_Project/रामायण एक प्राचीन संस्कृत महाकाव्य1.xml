@@ -1,0 +1,194 @@
+<paragraph>
+<sentence>
+    <word id="1b7551b7-9e60-41ac-9b52-7f730f51e08a" color="hsl(315, 82%, 88%)" tag="b-NEAR" isEndTag="true">रामायण</word>
+    <word id="2ad45b4e-2225-476b-9c2b-33a5055c3eee" color="white" tag="O" isEndTag="false">एक</word>
+    <word id="9667a8f0-d2d8-41aa-bb1f-910e773092d4" color="white" tag="O" isEndTag="false">प्राचीन</word>
+    <word id="55d8e4e8-cc2a-4fb6-a003-62080a9a5f82" color="hsl(315, 82%, 88%)" tag="b-NEAR" isEndTag="true">संस्कृत</word>
+    <word id="7cb15bec-e556-414f-b404-fef4e8641908" color="hsl(315, 82%, 88%)" tag="b-NEAR" isEndTag="true">महाकाव्य</word>
+    <word id="09891a03-aeb3-4014-b380-635d7f192c28" color="white" tag="O" isEndTag="false">है,</word>
+    <word id="cd39f00f-913f-4a77-975c-9b5efbdda6c2" color="white" tag="O" isEndTag="false">जिसकी</word>
+    <word id="817da2b4-f00e-4e6d-88a4-0463d2f90a7f" color="white" tag="O" isEndTag="false">रचना</word>
+    <word id="114482d4-6d0e-4cf4-a2bd-09104f78f574" color="hsl(312, 75%, 71%)" tag="b-NEDA" isEndTag="true">महर्षि</word>
+    <word id="5d439fae-c2aa-4d92-a7bd-fccc4c692cbf" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">वाल्मीकि</word>
+    <word id="d8502b7e-73ef-43c0-bb3d-16fd86edaf58" color="white" tag="O" isEndTag="false">द्वारा</word>
+    <word id="6f856ce4-e050-40e3-960e-68008c8d77be" color="white" tag="O" isEndTag="false">की</word>
+    <word id="23f6b847-18a4-464b-afcf-17ab4158bdd1" color="white" tag="O" isEndTag="false">गई।</word>
+    <word id="1438c471-7585-45d4-8773-89e9fd858269" color="white" tag="O" isEndTag="false">यह</word>
+    <word id="17c37395-669f-47c7-bc40-7261273cd431" color="white" tag="O" isEndTag="false">ग्रंथ</word>
+    <word id="de131945-d734-4e45-9ee8-716948b620a7" color="white" tag="O" isEndTag="false">कुल</word>
+    <word id="134f5b03-6a84-4e10-b79d-4599bc104cf6" color="hsl(278, 74%, 85%)" tag="b-NEU" isEndTag="true">सात</word>
+    <word id="8b1c5ba7-7f78-4dd4-b607-d14d70b0dda4" color="white" tag="O" isEndTag="false">कांडों</word>
+    <word id="b8565205-ef93-4dd7-9ca5-70b627f5af90" color="white" tag="O" isEndTag="false">में</word>
+    <word id="ae078a16-44a7-430d-9673-0f76c9078904" color="white" tag="O" isEndTag="false">विभाजित</word>
+    <word id="b085016d-4cbd-44d7-bb27-40b6e3c145b5" color="white" tag="O" isEndTag="false">है।</word>
+</sentence>
+<sentence>
+</sentence>
+<sentence>
+    <word id="3c623df8-a0a5-463b-822f-e053106e98b8" color="hsl(315, 82%, 88%)" tag="b-NEAR" isEndTag="true">बालकांड</word>
+    <word id="376b5878-f72a-4050-9d70-009bb83cad4a" color="white" tag="O" isEndTag="false">में</word>
+    <word id="6ab02f47-8194-4fcc-b804-5258b2f72e2e" color="hsl(164, 60%, 62%)" tag="b-NEL" isEndTag="true">अयोध्या</word>
+    <word id="c065a280-a032-4b91-be65-40e1f5bcf938" color="white" tag="O" isEndTag="false">के</word>
+    <word id="1da43928-f93d-4fd5-9a6a-e34db838844b" color="white" tag="O" isEndTag="false">राजा</word>
+    <word id="451fc83d-c5ff-4551-a3d5-e557b8705100" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">दशरथ</word>
+    <word id="88c14a16-a242-40ef-9555-c0c5493f24ba" color="white" tag="O" isEndTag="false">के</word>
+    <word id="f614f29d-c88f-4bf9-ae16-e846fcef1105" color="hsl(278, 74%, 85%)" tag="b-NEU" isEndTag="true">चार</word>
+    <word id="28d6cb2e-c507-455f-a7e8-996d093e4b6a" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">पुत्र—राम,</word>
+    <word id="8e33036c-6d70-4c4a-92c4-1e29f8cb9515" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">भरत,</word>
+    <word id="0f81bad5-d590-444a-8fcb-ac13a393651f" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">लक्ष्मण</word>
+    <word id="f7340c11-511e-4180-8cf1-f24e58df1701" color="white" tag="O" isEndTag="false">और</word>
+    <word id="355051fe-2446-41d4-9b25-dacc06b1766a" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">शत्रुघ्न</word>
+    <word id="b06cc03b-67f3-4758-954d-21a5f842643c" color="white" tag="O" isEndTag="false">का</word>
+    <word id="e33ef986-ca89-443c-a15c-67a3b1fee809" color="white" tag="O" isEndTag="false">जन्म</word>
+    <word id="6c1d3f46-f231-4e38-a95b-dc00618e94f5" color="white" tag="O" isEndTag="false">होता</word>
+    <word id="cd3437d9-58ca-4337-bb58-c8543d39c129" color="white" tag="O" isEndTag="false">है।</word>
+    <word id="16424d14-b9c6-460c-a02a-ff455d31b94b" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">विश्वामित्र</word>
+    <word id="0463263c-6788-49e6-ae88-d1b7cc62ff7d" color="white" tag="O" isEndTag="false">के</word>
+    <word id="de4c4c53-d122-409a-bb77-9b6a269819ec" color="white" tag="O" isEndTag="false">साथ</word>
+    <word id="2caff9f9-35f5-4d60-9d9e-25efdbdc7a73" color="white" tag="O" isEndTag="false">जाकर</word>
+    <word id="a37d329d-479a-4fe1-ab17-bce063eef264" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">राम</word>
+    <word id="6008c881-43f6-4c4a-94e7-0363bc9bde01" color="white" tag="O" isEndTag="false">ताड़का</word>
+    <word id="85b87126-1834-49bc-b34d-7472e49336e3" color="white" tag="O" isEndTag="false">का</word>
+    <word id="fef96e4d-60e3-4f6c-b0d2-93334b99cff5" color="white" tag="O" isEndTag="false">वध</word>
+    <word id="122d214c-b386-47f9-ae0d-83bc8564471b" color="white" tag="O" isEndTag="false">करते</word>
+    <word id="dcb80a80-1df1-4488-806a-5cd49fbf92c6" color="white" tag="O" isEndTag="false">हैं</word>
+    <word id="d0dbb2b2-6723-4173-8d70-c5444c771932" color="white" tag="O" isEndTag="false">और</word>
+    <word id="ca3f62b6-d59a-4626-bfdd-b52c696de0ce" color="hsl(164, 60%, 62%)" tag="b-NEL" isEndTag="true">मिथिला</word>
+    <word id="666651ae-56e6-48ea-acf6-1eba0e0e0400" color="white" tag="O" isEndTag="false">में</word>
+    <word id="979245a8-6eec-4c3c-b5f0-ae0c3a4cdebf" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">सीता</word>
+    <word id="e961949c-8caa-46c8-8d83-0be5817ce96e" color="white" tag="O" isEndTag="false">से</word>
+    <word id="8a162b20-70fd-428c-9e91-e62725436d5e" color="white" tag="O" isEndTag="false">विवाह</word>
+    <word id="0bfda602-82a0-4777-a1d0-9e2315eb7d9c" color="white" tag="O" isEndTag="false">करते</word>
+    <word id="3dbd34e9-4960-4d09-a7b4-d709103c8e38" color="white" tag="O" isEndTag="false">हैं।</word>
+</sentence>
+<sentence>
+</sentence>
+<sentence>
+    <word id="cea7e355-679d-4fc4-b151-186a20b792f0" color="hsl(315, 82%, 88%)" tag="b-NEAR" isEndTag="true">अयोध्या</word>
+    <word id="e32825c7-b25e-4abc-b13b-cbd774284374" color="hsl(315, 82%, 88%)" tag="b-NEAR" isEndTag="true">कांड</word>
+    <word id="2ad43d62-909d-40fa-9c2a-2ee08dc2ae2f" color="white" tag="O" isEndTag="false">में</word>
+    <word id="1db2aa2f-db13-437f-a586-811ae8cf1610" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">कैकेयी</word>
+    <word id="79fb169f-70f3-46a1-8cd7-be96a87d2a92" color="white" tag="O" isEndTag="false">के</word>
+    <word id="cbe38e80-ee96-4925-b46e-d1619dd5e937" color="white" tag="O" isEndTag="false">वरदान</word>
+    <word id="e3e9b1a7-1075-4385-81fa-5e7cfe05ca1e" color="white" tag="O" isEndTag="false">के</word>
+    <word id="786d30d3-ec43-42f1-9c44-02a2172e233e" color="white" tag="O" isEndTag="false">कारण</word>
+    <word id="7ee26817-01d5-433b-bb8f-802c6c7c7d50" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">राम</word>
+    <word id="47279ccb-9e6e-4854-ba4e-e58f1a5df836" color="white" tag="O" isEndTag="false">को</word>
+    <word id="e4ae1d45-3086-486e-90f3-a7fc551b10f3" color="hsl(200, 75%, 75%)" tag="b-NETI" isEndTag="true">14</word>
+    <word id="060fcf8a-01bf-402f-bbf3-ca63d010bfe8" color="hsl(200, 75%, 75%)" tag="b-NETI" isEndTag="true">वर्षों</word>
+    <word id="67dc07c8-8093-4a22-91fc-b62da3610ba7" color="hsl(200, 75%, 75%)" tag="b-NETI" isEndTag="true">का</word>
+    <word id="ee256635-f69c-4bc2-b2a4-b660cdbe0830" color="hsl(200, 75%, 75%)" tag="b-NETI" isEndTag="true">वनवास</word>
+    <word id="e66b94f4-960c-414a-b0be-12bb2a403e97" color="white" tag="O" isEndTag="false">मिलता</word>
+    <word id="718296a2-0ef7-4c73-8dd0-26a673ddea7f" color="white" tag="O" isEndTag="false">है;</word>
+    <word id="18c9c6fb-d9e7-4b22-be27-8dff26501c45" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">सीता</word>
+    <word id="f4250bb6-9ad2-4651-b6eb-7fb23ef0e3ff" color="white" tag="O" isEndTag="false">और</word>
+    <word id="184ebfa1-34af-474d-acda-f7952b011db6" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">लक्ष्मण</word>
+    <word id="919df66d-c1f3-476e-a70b-5eb4187dfcbe" color="white" tag="O" isEndTag="false">साथ</word>
+    <word id="ca68c8b3-1076-4106-93e4-bfb9405b2b4a" color="white" tag="O" isEndTag="false">जाते</word>
+    <word id="703475d8-64f9-48bc-8d94-aa576655dbd0" color="white" tag="O" isEndTag="false">हैं।</word>
+</sentence>
+<sentence>
+</sentence>
+<sentence>
+    <word id="e0c1f4d0-7469-4aa4-ad04-cb12246e84bd" color="hsl(315, 82%, 88%)" tag="b-NEAR" isEndTag="true">अरण्यकांड</word>
+    <word id="e2fd2740-d10a-415c-b55b-cead84acb7bd" color="white" tag="O" isEndTag="false">में</word>
+    <word id="25c5edbe-f6b8-4a7a-8e27-07cd2e1876e7" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">रावण</word>
+    <word id="bde4c30a-6763-4442-9f2b-267e66aa0454" color="white" tag="O" isEndTag="false">द्वारा</word>
+    <word id="ce089f98-a347-43d7-9707-7c9c7190acef" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">सीता-हरण</word>
+    <word id="27c0acc1-955f-47a3-a0b7-862a440db274" color="white" tag="O" isEndTag="false">होता</word>
+    <word id="266c177b-b328-4f29-8d37-08d2f3167748" color="white" tag="O" isEndTag="false">है।</word>
+    <word id="3b4c7528-4838-430b-8368-3613c963dbb6" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">जटायु</word>
+    <word id="df4aa8ff-75c7-4d3b-a95b-5c31b179a6c9" color="white" tag="O" isEndTag="false">प्रयास</word>
+    <word id="e0795c3f-b34f-4ec7-9a4e-7b210c62c8e9" color="white" tag="O" isEndTag="false">करता</word>
+    <word id="824a9b69-6b4b-4e6e-8fd3-3efe49ed02dc" color="white" tag="O" isEndTag="false">है</word>
+    <word id="129bd0e2-8ea7-4b56-a0c9-84826d83e63e" color="white" tag="O" isEndTag="false">पर</word>
+    <word id="457883fb-ec13-458a-9f2a-691ffd150f49" color="white" tag="O" isEndTag="false">वीरगति</word>
+    <word id="e5992474-40be-481d-91b1-d1c4d3517829" color="white" tag="O" isEndTag="false">को</word>
+    <word id="61ddaefd-2d24-432e-8ec6-09d2b099ddd9" color="white" tag="O" isEndTag="false">प्राप्त</word>
+    <word id="33a4f6e7-137e-48b1-abaf-5a842b8f8e2a" color="white" tag="O" isEndTag="false">होता</word>
+    <word id="bb07967a-7f1c-4221-83ee-a78c999dd178" color="white" tag="O" isEndTag="false">है।</word>
+</sentence>
+<sentence>
+</sentence>
+<sentence>
+    <word id="2e04e52b-ac10-4be0-a6a5-8e0cd229459c" color="hsl(315, 82%, 88%)" tag="b-NEAR" isEndTag="true">किष्किंधा</word>
+    <word id="87bb7090-36b0-48b8-96bd-0c553c816ff5" color="hsl(315, 82%, 88%)" tag="b-NEAR" isEndTag="true">कांड</word>
+    <word id="56385de6-c209-4ace-808a-55b6fe6cac6a" color="white" tag="O" isEndTag="false">में</word>
+    <word id="2bb662c3-19ef-43a5-bcd7-347a60daaa34" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">हनुमान</word>
+    <word id="595b7ebd-7523-4790-92e6-cac6c1e031fe" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">राम</word>
+    <word id="e5481471-a82c-4beb-9267-da617aeb04d1" color="white" tag="O" isEndTag="false">की</word>
+    <word id="f94e11e8-65a7-4a23-ab72-70da9b109f23" color="white" tag="O" isEndTag="false">मित्रता</word>
+    <word id="fc4430b5-3a50-4b45-8348-91469e909caa" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">सुग्रीव</word>
+    <word id="3a1527ce-2940-4ade-9af1-9d2add690893" color="white" tag="O" isEndTag="false">से</word>
+    <word id="a4211380-84d3-42b8-b4d7-4dcb78c1a2ed" color="white" tag="O" isEndTag="false">कराते</word>
+    <word id="342af4bd-a42a-469a-b94f-db3d287eeb61" color="white" tag="O" isEndTag="false">हैं।</word>
+    <word id="e4a262df-bdfb-4e5d-96e5-12382d413de4" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">बालि</word>
+    <word id="e8d08149-dd56-42c7-af54-c4e4199bca60" color="white" tag="O" isEndTag="false">का</word>
+    <word id="bae89083-0262-4ae0-a789-9f552cbe931e" color="white" tag="O" isEndTag="false">वध</word>
+    <word id="56b97755-d7ed-4998-b74f-1ce79a784e38" color="white" tag="O" isEndTag="false">होता</word>
+    <word id="6297a064-4240-4def-a901-7137a3aed66c" color="white" tag="O" isEndTag="false">है।</word>
+</sentence>
+<sentence>
+</sentence>
+<sentence>
+    <word id="651f6f61-09e6-4bb0-9131-7cd1c1b94d46" color="hsl(315, 82%, 88%)" tag="b-NEAR" isEndTag="true">सुंदरकांड</word>
+    <word id="7c2ddb7b-eb5c-4f8c-9bd4-623c9898930d" color="#FFFFFF" tag="O" isEndTag="false">में</word>
+    <word id="0ebaeac8-2ba0-4f3b-982f-95caaafb7aab" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">हनुमान</word>
+    <word id="6e8ecfd4-cca9-450f-b412-a0db786a45ee" color="hsl(164, 60%, 62%)" tag="b-NEL" isEndTag="true">लंका</word>
+    <word id="47c682ec-f0a0-4c83-8b05-dd2992539956" color="#FFFFFF" tag="O" isEndTag="false">जाकर</word>
+    <word id="4fab5322-eed2-4982-b21b-997d5452652d" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">सीता</word>
+    <word id="8b229b7d-6b2f-4451-8651-c737e2a33494" color="#FFFFFF" tag="O" isEndTag="false">से</word>
+    <word id="f29e675c-0e96-4dbf-92a3-43191fb663c0" color="#FFFFFF" tag="O" isEndTag="false">मिलते</word>
+    <word id="f0b18dfb-e970-4f4d-ad0b-65ba14d3d81d" color="#FFFFFF" tag="O" isEndTag="false">हैं</word>
+    <word id="6cf93521-018a-4db7-9d76-c4723637f147" color="#FFFFFF" tag="O" isEndTag="false">और</word>
+    <word id="6ddb6c50-1157-4f60-b7d4-ece42a6a70e2" color="hsl(164, 60%, 62%)" tag="b-NEL" isEndTag="true">लंका</word>
+    <word id="47ed7a1d-8b62-49b3-8fcc-e620b37f0c5e" color="hsl(70, 96%, 61%)" tag="b-NETE" isEndTag="true">दहन</word>
+    <word id="e2cf52b3-ac8a-4fef-8859-b7bd52c6aa0e" color="#FFFFFF" tag="O" isEndTag="false">करते</word>
+    <word id="201f7256-fed3-4843-8698-56bcd1281663" color="#FFFFFF" tag="O" isEndTag="false">हैं।</word>
+</sentence>
+<sentence>
+</sentence>
+<sentence>
+    <word id="3939659d-02c7-43be-aade-a023857b34d5" color="hsl(315, 82%, 88%)" tag="b-NEAR" isEndTag="true">युद्धकांड</word>
+    <word id="50356018-e3ac-4125-b048-5c4d66b32790" color="white" tag="O" isEndTag="false">में</word>
+    <word id="a1c60f82-ecba-4111-8f89-1b7616e845e8" color="hsl(70, 96%, 61%)" tag="b-NETE" isEndTag="true">राम-रावण</word>
+    <word id="a6c2b853-c371-4e2f-846c-d6b44ba1cd08" color="hsl(70, 96%, 61%)" tag="b-NETE" isEndTag="true">युद्ध</word>
+    <word id="ec0ca5ce-e2d1-4ffc-930a-406c119e7262" color="white" tag="O" isEndTag="false">होता</word>
+    <word id="e237e57e-9028-48d5-856e-7c3b510b1bd8" color="white" tag="O" isEndTag="false">है।</word>
+    <word id="694d18ab-f9f3-4f59-a8a4-8a2565e056a2" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">रावण</word>
+    <word id="d278c496-e86a-4440-8ec5-0157a9cf50c0" color="white" tag="O" isEndTag="false">मारा</word>
+    <word id="5109ec4c-b166-4948-b68b-1c6b45f56174" color="white" tag="O" isEndTag="false">जाता</word>
+    <word id="22b2e118-8979-4d59-a403-1c10a3da51cd" color="white" tag="O" isEndTag="false">है।</word>
+</sentence>
+<sentence>
+</sentence>
+<sentence>
+    <word id="5a5b3313-c9a5-42e7-a529-7a99d464fb4e" color="hsl(315, 82%, 88%)" tag="b-NEAR" isEndTag="true">उत्तरकांड</word>
+    <word id="4f324ff5-2c87-4d05-b0f4-7e3e89070065" color="white" tag="O" isEndTag="false">में</word>
+    <word id="d46e3dd1-ea95-41c3-9422-dc48e8850424" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">राम</word>
+    <word id="84742d50-69ad-4e2c-9f46-f58da26abd09" color="white" tag="O" isEndTag="false">का</word>
+    <word id="fbf8178c-5cd1-4dde-9861-a14dd9da47f8" color="white" tag="O" isEndTag="false">राज्याभिषेक</word>
+    <word id="89c55fff-ee29-4328-9b88-37b81fe1fd2f" color="white" tag="O" isEndTag="false">होता</word>
+    <word id="384d25ee-5d9f-4277-a887-d68232e5b8df" color="white" tag="O" isEndTag="false">है,</word>
+    <word id="293db5fc-66cd-4fb9-98af-7dcdd3a1b500" color="white" tag="O" isEndTag="false">पर</word>
+    <word id="d2416718-4da0-4613-8eae-6510c5c728e3" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">सीता</word>
+    <word id="05d11e9d-1993-4399-80ab-32a68725623b" color="white" tag="O" isEndTag="false">वनवास</word>
+    <word id="84ad2542-1f29-4194-9f1a-c9be36471d92" color="white" tag="O" isEndTag="false">लेती</word>
+    <word id="1cd40ae5-6a7d-42e9-934c-066c06cc6921" color="white" tag="O" isEndTag="false">हैं।</word>
+    <word id="a6bf0502-aed2-4e59-8308-dfddc9f4adba" color="white" tag="O" isEndTag="false">उनके</word>
+    <word id="af0018a6-cf51-401a-b702-4d3bdff02bbd" color="white" tag="O" isEndTag="false">पुत्र</word>
+    <word id="ebfd7db8-f5c0-4bc3-88a7-cb97241c99b9" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">लव</word>
+    <word id="d610a1ce-eedd-4965-a647-124f5f646acf" color="white" tag="O" isEndTag="false">और</word>
+    <word id="cb8bb3eb-c7b9-448e-ab7e-aacf7f666b47" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">कुश</word>
+    <word id="e4ee9753-4cf7-4cb6-8dc2-c0d810703e25" color="white" tag="O" isEndTag="false">का</word>
+    <word id="5611cde3-014d-4765-8054-03b15c2ec336" color="#FFFFFF" tag="O" isEndTag="false">जन्म</word>
+    <word id="89cc8f73-c3c4-42f7-bb3d-43c4ee9053e0" color="#FFFFFF" tag="O" isEndTag="false">होता</word>
+    <word id="a0c064a4-0a3b-4822-9b70-ad428463e87a" color="#FFFFFF" tag="O" isEndTag="false">है।</word>
+    <word id="dcb13dd6-d8a0-4945-ade0-b29e76af247c" color="#FFFFFF" tag="O" isEndTag="false">अंततः</word>
+    <word id="c8d1e4f2-178a-483a-8f3a-db9f3c3bea2b" color="hsl(324, 59%, 84%)" tag="b-NEP" isEndTag="true">राम</word>
+    <word id="8a991675-825c-40ac-8080-c3162fa6978b" color="hsl(312, 75%, 71%)" tag="b-NEDA" isEndTag="true">विष्णुलोक</word>
+    <word id="a59faacc-06b1-4514-a221-518567ee58f4" color="white" tag="O" isEndTag="false">लौट</word>
+    <word id="37d7f913-e2f2-42f7-ada0-2efcbcffd4c8" color="white" tag="O" isEndTag="false">जाते</word>
+    <word id="b1e7d9a7-5f08-45f1-8292-943ebc2dee3e" color="white" tag="O" isEndTag="false">हैं।</word>
+</sentence>
+</paragraph>
