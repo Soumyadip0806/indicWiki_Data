@@ -1,0 +1,210 @@
+<paragraph>
+<sentence>
+    <word id="e6e36a75-6a0b-468b-8477-d24c3fade6e8" color="white" tag="O" isEndTag="false">#URL:</word>
+    <word id="90c4ccde-8da1-49f9-8666-2dad65c9a1a4" color="hsl(278, 74%, 85%)" tag="b-NEU" isEndTag="true">https://tourism.telangana.gov.in/destinations/hyderabad</word>
+</sentence>
+<sentence>
+    <word id="91927932-b7a2-4c7f-aaa7-5ac6e5b27278" color="white" tag="O" isEndTag="false">#Time:</word>
+    <word id="790766e2-18a8-4c10-8a99-a96cb691bca6" color="white" tag="O" isEndTag="false">08-06-2025</word>
+    <word id="f7dd7ce0-65a4-46a4-8663-a8dc0c749230" color="white" tag="O" isEndTag="false">08:46</word>
+</sentence>
+<sentence>
+    <word id="5fa4438f-1552-450d-b3a8-ac8b19bb74d5" color="white" tag="O" isEndTag="false">#Domain:</word>
+    <word id="8c36b81a-379e-4291-b877-fcefa26cbbb7" color="white" tag="O" isEndTag="false">Culture</word>
+</sentence>
+<sentence>
+    <word id="7b131e9e-fe43-487f-b7de-d7cc1d92e721" color="white" tag="O" isEndTag="false"></word>
+</sentence>
+<sentence>
+    <word id="accd0769-f89e-4def-b6ce-65268a4de995" color="hsl(164, 60%, 62%)" tag="b-NEL" isEndTag="true">हैदराबाद</word>
+    <word id="0e6fb100-71c6-423d-9202-9ba147407d5a" color="hsl(164, 60%, 62%)" tag="b-NEL" isEndTag="true">भारत</word>
+    <word id="dc890183-29a2-47c6-a809-a0179b811a88" color="white" tag="O" isEndTag="false">का</word>
+    <word id="293d9763-1b22-43a2-8041-f11e5e33b32f" color="white" tag="O" isEndTag="false">एक</word>
+    <word id="f971e994-64e6-4434-8962-c9635ddd3d34" color="white" tag="O" isEndTag="false">ऐतिहासिक</word>
+    <word id="fa402f89-35fc-4dc0-b3ec-d1312cd35e28" color="white" tag="O" isEndTag="false">और</word>
+    <word id="424aea2a-e2e5-4587-a9ce-43794ffcee17" color="white" tag="O" isEndTag="false">सांस्कृतिक</word>
+    <word id="616fad38-a4ae-4f2c-9204-5e5ff907bc21" color="white" tag="O" isEndTag="false">रूप</word>
+    <word id="98cc6253-8bf0-4563-be2e-7a66b374aafd" color="white" tag="O" isEndTag="false">से</word>
+    <word id="3333a708-8248-455d-8fa8-c4f9b58f5d02" color="white" tag="O" isEndTag="false">समृद्ध</word>
+    <word id="112e4d7a-e222-410c-9a48-0eaa345e21a6" color="white" tag="O" isEndTag="false">शहर</word>
+    <word id="b21a0d95-61c3-4d3c-9ad9-643f77364e93" color="white" tag="O" isEndTag="false">है,</word>
+    <word id="ebbde351-be70-44cb-8a26-5bfb40502aba" color="white" tag="O" isEndTag="false">जिसे</word>
+    <word id="8a81c88b-0f98-43a0-a991-364609158cf3" color="hsl(315, 82%, 88%)" tag="b-NEAR" isEndTag="false">'पर्ल</word>
+    <word id="e9d117b2-4684-40f6-b91b-85816cfc5084" color="hsl(315, 82%, 88%)" tag="i-NEAR" isEndTag="true">सिटी'</word>
+    <word id="e2e8cddb-6bac-4558-b161-90a227d9051d" color="white" tag="O" isEndTag="false">के</word>
+    <word id="960c34ca-9794-4fba-8b44-5f881139734a" color="white" tag="O" isEndTag="false">नाम</word>
+    <word id="d28a9330-0ce1-473a-a47c-149ea7948100" color="white" tag="O" isEndTag="false">से</word>
+    <word id="b31beabf-9e77-4576-b004-7c478312f8f0" color="white" tag="O" isEndTag="false">भी</word>
+    <word id="b12ba14c-9788-4f62-845b-50a4bd031951" color="white" tag="O" isEndTag="false">जाना</word>
+    <word id="634aebd4-d164-439d-aa82-50edd7a95bcd" color="white" tag="O" isEndTag="false">जाता</word>
+    <word id="47930607-f6e0-4264-8aeb-d5e6445d232b" color="white" tag="O" isEndTag="false">है।</word>
+    <word id="de27b275-9dba-4e28-8b83-ebd6508d3136" color="white" tag="O" isEndTag="false">यह</word>
+    <word id="5b8270a8-47dd-464c-98ce-5bf74b0d26fb" color="white" tag="O" isEndTag="false">शहर</word>
+    <word id="990c4060-8527-425b-8cb2-99d27f6a5b3c" color="hsl(315, 82%, 88%)" tag="b-NEAR" isEndTag="true">चारमीनार,</word>
+    <word id="223022d4-bb61-4035-a90c-e30597656bd0" color="hsl(315, 82%, 88%)" tag="b-NEAR" isEndTag="false">मक्का</word>
+    <word id="97c3edb8-c501-401c-9da1-69d0c0f3549a" color="hsl(315, 82%, 88%)" tag="i-NEAR" isEndTag="true">मस्जिद</word>
+    <word id="37efc05c-02c0-47fe-98f3-392f38788d9c" color="white" tag="O" isEndTag="false">और</word>
+    <word id="fee20f25-2ce7-4569-b240-6d1bf61adccf" color="hsl(315, 82%, 88%)" tag="b-NEAR" isEndTag="false">गोलकोंडा</word>
+    <word id="9b1d82ac-2a88-4fcc-8a8a-bff400e84eac" color="hsl(315, 82%, 88%)" tag="i-NEAR" isEndTag="true">किले</word>
+    <word id="532f8163-ddce-4eaa-99ae-29826740844c" color="white" tag="O" isEndTag="false">जैसे</word>
+    <word id="7f8e754e-a87d-4602-93f0-c5aadbf9804a" color="white" tag="O" isEndTag="false">प्रसिद्ध</word>
+    <word id="7798e736-cdd8-41ee-8131-8cce2304f060" color="white" tag="O" isEndTag="false">स्मारकों</word>
+    <word id="53d46b0e-a568-49a9-84b5-9653b68dd1f8" color="white" tag="O" isEndTag="false">के</word>
+    <word id="b2cddf9a-e048-4b36-8fae-f7eccc2458f5" color="white" tag="O" isEndTag="false">लिए</word>
+    <word id="e20a2458-b113-4d5a-80cf-c802ff60f1d0" color="white" tag="O" isEndTag="false">मशहूर</word>
+    <word id="a09950b8-45fe-43b6-8c27-8bfd9d2800f9" color="white" tag="O" isEndTag="false">है।</word>
+    <word id="54fd5f13-bfd1-4ad8-9a2e-1f85bde6bc05" color="white" tag="O" isEndTag="false">यहां</word>
+    <word id="9802c40f-cd15-4ea9-b89b-3f37eb6eaf95" color="white" tag="O" isEndTag="false">का</word>
+    <word id="0c129499-578d-45f7-9a5c-bcf03a1039fd" color="hsl(272, 89%, 79%)" tag="b-NEMI" isEndTag="false">स्थापत्य</word>
+    <word id="b7b9447f-9aa5-4d02-ae5a-ebc3950c420f" color="hsl(272, 89%, 79%)" tag="i-NEMI" isEndTag="true">कला</word>
+    <word id="cff04669-70d2-4376-8f66-4acaa3db54f3" color="hsl(213, 57%, 66%)" tag="b-NEO" isEndTag="true">मुगल,</word>
+    <word id="d3c668ae-ef7d-4b26-bb74-5c8cd318f928" color="white" tag="O" isEndTag="false">फारसी</word>
+    <word id="994fb6e0-1f3e-468b-b1c8-f8d0013a92b7" color="white" tag="O" isEndTag="false">और</word>
+    <word id="48b5685f-9b4f-447c-a885-c671d120eb19" color="white" tag="O" isEndTag="false">दक्षिण</word>
+    <word id="37455861-12c7-4a5b-a789-acc449790811" color="white" tag="O" isEndTag="false">भारतीय</word>
+    <word id="ae043cba-0ed1-4355-b287-70179bded7a1" color="white" tag="O" isEndTag="false">शैलियों</word>
+    <word id="8311b943-cf58-44a3-bc94-794b489aac1d" color="white" tag="O" isEndTag="false">का</word>
+    <word id="2edd5b73-fcc9-4e27-8398-ef65162e48eb" color="white" tag="O" isEndTag="false">अनूठा</word>
+    <word id="54e4fc74-e8e2-4c38-b243-9ad582cca9b5" color="white" tag="O" isEndTag="false">मिश्रण</word>
+    <word id="33f194aa-0a33-4df8-bd8a-b98da06ec215" color="white" tag="O" isEndTag="false">दर्शाता</word>
+    <word id="a1642a78-e360-49d5-92f3-ea38c4b894e3" color="white" tag="O" isEndTag="false">है।</word>
+    <word id="9076716d-3e78-4c80-8f6d-0f06b2d6aa73" color="white" tag="O" isEndTag="false">हैदराबाद</word>
+    <word id="ebc1f655-a277-499b-8263-4e2ddb0207ea" color="white" tag="O" isEndTag="false">अपने</word>
+    <word id="bd5d302c-b59c-4e01-aa9b-e90c28c272e7" color="white" tag="O" isEndTag="false">विश्वविख्यात</word>
+    <word id="5cade9c5-e64e-41bf-bab8-ff9bd90396e4" color="hsl(272, 89%, 79%)" tag="b-NEMI" isEndTag="true">बिरयानी</word>
+    <word id="dde1d0eb-58e0-4c71-aabc-74a5eb57c497" color="white" tag="O" isEndTag="false">और</word>
+    <word id="7ceb2615-70c8-45e9-88f2-be158d562fea" color="hsl(272, 89%, 79%)" tag="b-NEMI" isEndTag="true">हलीम</word>
+    <word id="3fa90c06-336d-4ba2-a7c8-75afb4be1c5d" color="white" tag="O" isEndTag="false">जैसे</word>
+    <word id="46d39407-9bf4-49ac-8ed6-30f411d363e3" color="white" tag="O" isEndTag="false">व्यंजनों</word>
+    <word id="96507cc3-e726-46fc-a2db-8bfa806a2eef" color="white" tag="O" isEndTag="false">के</word>
+    <word id="703aef31-1b5c-4b1e-9ba0-ce6686d55554" color="white" tag="O" isEndTag="false">लिए</word>
+    <word id="31179e82-b38e-4d85-937d-9e1a54934108" color="white" tag="O" isEndTag="false">भी</word>
+    <word id="3c1fe1b6-ea29-4913-9db1-f590b8ab8acb" color="white" tag="O" isEndTag="false">प्रसिद्ध</word>
+    <word id="d244f389-e187-4789-ae88-d6a122fb7e52" color="white" tag="O" isEndTag="false">है,</word>
+    <word id="374551c8-9c35-4eb9-8e97-c80a5ad60484" color="white" tag="O" isEndTag="false">जो</word>
+    <word id="f812c2ec-e586-42b8-92d8-3865b48766db" color="white" tag="O" isEndTag="false">इसकी</word>
+    <word id="00150879-3848-4346-8439-0f084096eed7" color="hsl(272, 89%, 79%)" tag="b-NEMI" isEndTag="false">पाक</word>
+    <word id="d904c43f-6791-48cc-a65a-1d0e5c8f154f" color="hsl(272, 89%, 79%)" tag="i-NEMI" isEndTag="true">परंपरा</word>
+    <word id="1c22eb79-847c-41f0-b143-cedeeffae013" color="white" tag="O" isEndTag="false">को</word>
+    <word id="52c8c3b2-5883-4d5b-8dbb-c70460c965e3" color="white" tag="O" isEndTag="false">दर्शाते</word>
+    <word id="1ca90776-5aaa-47ba-b978-c64e9610b6ec" color="white" tag="O" isEndTag="false">हैं।</word>
+    <word id="2873c39a-004b-4c94-8c75-f835c732053f" color="hsl(315, 82%, 88%)" tag="b-NEAR" isEndTag="false">हुसैन</word>
+    <word id="a87c074f-0050-48a2-9c18-b054ecc487e3" color="hsl(315, 82%, 88%)" tag="i-NEAR" isEndTag="false">सागर</word>
+    <word id="00ed1298-6b25-4788-84da-96ba4bea02c4" color="hsl(315, 82%, 88%)" tag="i-NEAR" isEndTag="true">झील</word>
+    <word id="ba548092-0500-43f1-a513-0228719e53b5" color="white" tag="O" isEndTag="false">और</word>
+    <word id="2e27fcb6-d184-4659-90c7-dbd35eda21cd" color="white" tag="O" isEndTag="false">उसके</word>
+    <word id="c41d83e6-5937-42d2-bdb6-984b5de833e9" color="white" tag="O" isEndTag="false">बीच</word>
+    <word id="92df3c0c-42e5-4005-8146-4cfb4ebf4f81" color="white" tag="O" isEndTag="false">स्थित</word>
+    <word id="9a89c4cd-803c-45d2-8a7c-e88a77f4c558" color="hsl(225, 97%, 66%)" tag="b-NEF" isEndTag="false">बुद्ध</word>
+    <word id="ea78804b-81c8-4933-86bc-99d5c9549f26" color="hsl(225, 97%, 66%)" tag="i-NEF" isEndTag="true">प्रतिमा</word>
+    <word id="8f370a59-66cd-4910-9601-9581faf6bb45" color="white" tag="O" isEndTag="false">एक</word>
+    <word id="9b16716b-e418-4536-b466-5c4249a6973a" color="white" tag="O" isEndTag="false">प्रमुख</word>
+    <word id="c4057308-c803-45a7-8156-c2ede8eb6ad1" color="white" tag="O" isEndTag="false">पर्यटक</word>
+    <word id="a7b500ae-7835-4c4d-b2bf-b55cade0c656" color="white" tag="O" isEndTag="false">स्थल</word>
+    <word id="17075ca0-5dd4-4a54-8d53-52666c73cf02" color="white" tag="O" isEndTag="false">है।</word>
+    <word id="3c1035ab-709e-4688-8132-c1be98ff9b19" color="hsl(213, 57%, 66%)" tag="b-NEO" isEndTag="false">रमोझी</word>
+    <word id="8ec93f24-c421-4b66-8e92-99f0015cdeca" color="hsl(213, 57%, 66%)" tag="i-NEO" isEndTag="false">फिल्म</word>
+    <word id="15d81977-9136-4c87-b378-67fc4f27b359" color="hsl(213, 57%, 66%)" tag="i-NEO" isEndTag="true">सिटी,</word>
+    <word id="97e2a3d5-3100-4526-89d0-e115cf926211" color="white" tag="O" isEndTag="false">जो</word>
+    <word id="88165e4f-da62-4536-a242-c559b0f0fbfa" color="white" tag="O" isEndTag="false">विश्व</word>
+    <word id="76cb9e10-26e8-4e93-85cf-5d7f428b7432" color="white" tag="O" isEndTag="false">की</word>
+    <word id="bb9e9356-11e0-4f3d-894c-6c814da21be4" color="white" tag="O" isEndTag="false">सबसे</word>
+    <word id="d7552089-aac8-40f8-8362-f7bac24bb6f1" color="white" tag="O" isEndTag="false">बड़ी</word>
+    <word id="c647a744-bad5-428b-89bc-c83b3b005b56" color="white" tag="O" isEndTag="false">फिल्म</word>
+    <word id="31058cb2-6a82-4c88-8388-13280c6dc0c0" color="white" tag="O" isEndTag="false">स्टूडियो</word>
+    <word id="b5a9c283-6976-4e32-96ab-57169c16cd5b" color="white" tag="O" isEndTag="false">परिसरों</word>
+    <word id="ed458bb3-bf6d-4000-91bd-cf964fecafb3" color="white" tag="O" isEndTag="false">में</word>
+    <word id="c23ce583-9d90-4794-8851-7c37a9fe3bd7" color="white" tag="O" isEndTag="false">से</word>
+    <word id="0d1de708-b20c-4667-8f65-fca385b29e27" color="white" tag="O" isEndTag="false">एक</word>
+    <word id="c81b3d2b-b0f3-46a8-b00e-a4d85aa56493" color="white" tag="O" isEndTag="false">है,</word>
+    <word id="e9f7f321-e944-435a-b6e1-31ffab230dbe" color="white" tag="O" isEndTag="false">भी</word>
+    <word id="87646c9f-cad1-412f-8ac5-8e2e6d7f8955" color="white" tag="O" isEndTag="false">यहीं</word>
+    <word id="d9e9d2e9-4d2e-4cdb-a0a3-4fa509335cfa" color="white" tag="O" isEndTag="false">स्थित</word>
+    <word id="c18ba73d-33d9-4c85-9ef0-7d40f5737522" color="white" tag="O" isEndTag="false">है।</word>
+    <word id="45bdce40-2358-4fff-a57d-e16c6583a188" color="white" tag="O" isEndTag="false">इस</word>
+    <word id="56c5b044-3657-4d0e-8768-d4f5af5e17b6" color="white" tag="O" isEndTag="false">शहर</word>
+    <word id="fed7a104-2ffe-44ab-98b4-359a709e9fff" color="white" tag="O" isEndTag="false">में</word>
+    <word id="59caee1a-6036-4bda-9a3d-037744458469" color="white" tag="O" isEndTag="false">आधुनिकता</word>
+    <word id="052f8fa4-1aca-490c-aec8-dcb940dd2def" color="white" tag="O" isEndTag="false">और</word>
+    <word id="fe4e4c0e-a8e0-424b-b1c7-eb33e22266c4" color="white" tag="O" isEndTag="false">परंपरा</word>
+    <word id="33295197-507e-4172-88b3-4320d7bfbfee" color="white" tag="O" isEndTag="false">का</word>
+    <word id="074e4cd9-aa24-453a-81f2-c5afae38f98e" color="white" tag="O" isEndTag="false">सुंदर</word>
+    <word id="54e4d724-48da-4837-9a1b-0ee98e37937c" color="white" tag="O" isEndTag="false">संगम</word>
+    <word id="0d84ae32-3640-4199-830e-cb9eff0a88c6" color="white" tag="O" isEndTag="false">देखने</word>
+    <word id="0c6fd97f-0ed0-4f88-afd8-eacb0bc63146" color="white" tag="O" isEndTag="false">को</word>
+    <word id="dc4fc106-1f15-4981-b5a3-0d95c1ba01c9" color="white" tag="O" isEndTag="false">मिलता</word>
+    <word id="081272d6-41f0-4ff8-b463-e679b78cac21" color="white" tag="O" isEndTag="false">है।</word>
+    <word id="67ef5505-d4ed-49ad-9f14-6eccc08524ca" color="hsl(164, 60%, 62%)" tag="b-NEL" isEndTag="true">साइबराबाद</word>
+    <word id="92affd6f-a51d-4367-b9fe-b06e706f3416" color="white" tag="O" isEndTag="false">क्षेत्र</word>
+    <word id="16fc22a2-a245-4c89-abf9-4e308e3a77b3" color="white" tag="O" isEndTag="false">टेक्नोलॉजी</word>
+    <word id="b8b98b10-2aa0-4367-897c-5c767f07e409" color="white" tag="O" isEndTag="false">हब</word>
+    <word id="a5495bd7-7850-46eb-ad0b-84f41575b184" color="white" tag="O" isEndTag="false">के</word>
+    <word id="13fdcfb0-021c-4de4-837b-ef74769466c7" color="white" tag="O" isEndTag="false">रूप</word>
+    <word id="c5adb741-e5a0-4b16-84d9-7e99c9abfbe2" color="white" tag="O" isEndTag="false">में</word>
+    <word id="5643d2d8-c67f-412a-b686-09584b5d2da7" color="white" tag="O" isEndTag="false">उभरा</word>
+    <word id="9aa6c394-9d27-4fba-95c7-7f105bd059f6" color="white" tag="O" isEndTag="false">है,</word>
+    <word id="7e0f5488-de71-4feb-9e0d-f04bd6a33285" color="white" tag="O" isEndTag="false">जिससे</word>
+    <word id="15640f71-eeb4-488e-af96-d32b31c8eeca" color="white" tag="O" isEndTag="false">यह</word>
+    <word id="76b041a9-c537-4b55-93d2-c23807cabd59" color="white" tag="O" isEndTag="false">शहर</word>
+    <word id="46f58a63-e87f-4bea-85be-e565ccd8c824" color="white" tag="O" isEndTag="false">व्यापार</word>
+    <word id="fb78ae9a-4d08-4207-8ec0-d616d4b88451" color="white" tag="O" isEndTag="false">और</word>
+    <word id="76a6a2a1-1e93-4fb7-b87f-aac20c63f9ad" color="white" tag="O" isEndTag="false">रोजगार</word>
+    <word id="ae52af60-ecad-4766-889c-c9513c1b0668" color="white" tag="O" isEndTag="false">के</word>
+    <word id="73f42161-bb83-4108-8285-9ed110770937" color="white" tag="O" isEndTag="false">लिए</word>
+    <word id="69183041-fc53-4cb8-ad00-756e33091b54" color="white" tag="O" isEndTag="false">भी</word>
+    <word id="5c436b4a-9083-4da3-8a5c-71e7c7441c7e" color="white" tag="O" isEndTag="false">जाना</word>
+    <word id="91ffcb68-1194-4415-a939-9acbd053268a" color="white" tag="O" isEndTag="false">जाता</word>
+    <word id="2b0f36dd-38e7-452b-81f1-523e49256c16" color="white" tag="O" isEndTag="false">है।</word>
+    <word id="25a8e7be-a5fb-49cc-890a-321fcef443e3" color="hsl(272, 89%, 79%)" tag="b-NEMI" isEndTag="true">बटुकम्मा</word>
+    <word id="6291ce25-e3ab-4b97-8c88-6e90cb117706" color="white" tag="O" isEndTag="false">और</word>
+    <word id="4169aff5-8b4b-487d-a2a9-ba2cdcbc43a8" color="hsl(272, 89%, 79%)" tag="b-NEMI" isEndTag="true">बोनालू</word>
+    <word id="ddcf5799-be3a-4ab6-8737-7635ded23bd6" color="white" tag="O" isEndTag="false">जैसे</word>
+    <word id="47d8e8db-9db7-4986-ac7b-1333868d3128" color="white" tag="O" isEndTag="false">त्योहार</word>
+    <word id="afcf9734-533f-4c9b-a5e4-ca3124968290" color="white" tag="O" isEndTag="false">स्थानीय</word>
+    <word id="544b7178-1018-4fd3-8df8-05ae544630d2" color="white" tag="O" isEndTag="false">संस्कृति</word>
+    <word id="2611c5ab-6186-45b3-b641-376717cde83f" color="white" tag="O" isEndTag="false">की</word>
+    <word id="409d03e6-8983-4145-8128-1006cd8ddc8a" color="white" tag="O" isEndTag="false">झलक</word>
+    <word id="b4412206-9e0a-45d5-8364-a4e383e71e77" color="white" tag="O" isEndTag="false">प्रस्तुत</word>
+    <word id="6ccf77a4-995d-4410-bbcf-04ca26d20395" color="white" tag="O" isEndTag="false">करते</word>
+    <word id="0297834b-2339-44e6-b4e5-5f7f6c3f4643" color="white" tag="O" isEndTag="false">हैं।</word>
+    <word id="f4b2a52f-f75e-47d5-8dc2-bafc40343305" color="hsl(164, 60%, 62%)" tag="b-NEL" isEndTag="true">हैदराबाद</word>
+    <word id="b3fe98c3-5c2d-4992-b4aa-b4fa2dbf6bc9" color="white" tag="O" isEndTag="false">के</word>
+    <word id="560206b4-ae41-4e1e-855f-0894ab48dbdd" color="white" tag="O" isEndTag="false">बाजार</word>
+    <word id="24e0894f-5392-4e9a-8b22-c91c6ce10076" color="white" tag="O" isEndTag="false">जैसे</word>
+    <word id="4b27d235-4683-464e-b646-62fccbd6f527" color="hsl(164, 60%, 62%)" tag="b-NEL" isEndTag="false">लाड</word>
+    <word id="ff2cb719-be5a-42db-b878-8b562c1ea5b2" color="hsl(164, 60%, 62%)" tag="i-NEL" isEndTag="true">बाजार</word>
+    <word id="3344aaa0-ad57-45cc-8d5e-f21e84f9c482" color="white" tag="O" isEndTag="false">और</word>
+    <word id="a1470742-b538-43f1-8b8b-f3032e3f2da2" color="hsl(164, 60%, 62%)" tag="b-NEL" isEndTag="true">शिल्परामम</word>
+    <word id="c2ee912b-3bd0-4ffd-91c6-7f4e39912ae9" color="white" tag="O" isEndTag="false">पारंपरिक</word>
+    <word id="8df3d55a-561a-49f3-afc8-4d285f97e53a" color="white" tag="O" isEndTag="false">हस्तशिल्प</word>
+    <word id="2309854b-cfa9-4540-9ca8-81e55ffc0dce" color="white" tag="O" isEndTag="false">और</word>
+    <word id="401f586a-df19-4383-a8e3-06e138d8a6a8" color="white" tag="O" isEndTag="false">आभूषणों</word>
+    <word id="67784e02-ffe1-4f2a-b62c-77d1531389e6" color="white" tag="O" isEndTag="false">के</word>
+    <word id="ab961d29-c52c-402b-bd1f-78836b6290da" color="white" tag="O" isEndTag="false">लिए</word>
+    <word id="cf4325fe-5b95-472c-80f5-23b3d5ddd781" color="white" tag="O" isEndTag="false">प्रसिद्ध</word>
+    <word id="0cdf279c-3848-4020-8863-1ac51df02494" color="white" tag="O" isEndTag="false">हैं।</word>
+    <word id="a5b11dbe-e549-4625-9da3-6bff3b6535dd" color="white" tag="O" isEndTag="false">यहाँ</word>
+    <word id="816116d7-e067-44dd-9bf7-d1bdaf3ed950" color="white" tag="O" isEndTag="false">की</word>
+    <word id="b29920d5-45ed-4f05-b69c-ff6c15e8f898" color="hsl(315, 82%, 88%)" tag="b-NEAR" isEndTag="false">गंगा-जमुनी</word>
+    <word id="455325ed-6142-46ba-9cb4-c2ecb7a78d9b" color="hsl(315, 82%, 88%)" tag="i-NEAR" isEndTag="true">तहज़ीब</word>
+    <word id="2b403177-ed84-49cd-9c9b-4d9e61f11982" color="white" tag="O" isEndTag="false">हिन्दू-मुस्लिम</word>
+    <word id="77f37094-36ec-458b-b3d9-c675edde2ebb" color="white" tag="O" isEndTag="false">एकता</word>
+    <word id="0eb8b3f7-c1e9-46aa-a64a-9d41db40d65e" color="white" tag="O" isEndTag="false">का</word>
+    <word id="2d51229d-443d-4925-9963-404eb2476e3f" color="white" tag="O" isEndTag="false">प्रतीक</word>
+    <word id="c0c7bee0-962f-4e40-8964-619f6659db8c" color="white" tag="O" isEndTag="false">मानी</word>
+    <word id="fddfb0b2-7912-455e-b34a-96d26cadbce8" color="white" tag="O" isEndTag="false">जाती</word>
+    <word id="a59cca4b-f6fd-4a2e-86f6-9a35af73b867" color="white" tag="O" isEndTag="false">है।</word>
+    <word id="5aff590f-f2f6-4183-8ffb-19dc2ec66f9e" color="white" tag="O" isEndTag="false">समग्र</word>
+    <word id="a38fc9c9-7fc0-46b4-b908-8f6bd1152bbe" color="white" tag="O" isEndTag="false">रूप</word>
+    <word id="78679950-1720-4cbf-a9ad-e63b208acf91" color="white" tag="O" isEndTag="false">से</word>
+    <word id="9023dede-3c60-47bc-84b5-576f3af187db" color="hsl(164, 60%, 62%)" tag="b-NEL" isEndTag="true">हैदराबाद</word>
+    <word id="0e114816-8ff9-4dbf-b41c-5ed99c0c998b" color="white" tag="O" isEndTag="false">संस्कृति,</word>
+    <word id="076ad4a0-51d6-468c-8fb2-b3f02a6a323a" color="white" tag="O" isEndTag="false">तकनीक</word>
+    <word id="3e815324-1bfd-456a-a168-52438f57da33" color="white" tag="O" isEndTag="false">और</word>
+    <word id="498dc3c7-cefe-4ead-b714-acaa872fc1f4" color="white" tag="O" isEndTag="false">इतिहास</word>
+    <word id="c6bce9ee-56be-471a-89bc-a174f96de437" color="white" tag="O" isEndTag="false">का</word>
+    <word id="9c2764d2-25cd-4672-9308-6f837086536e" color="white" tag="O" isEndTag="false">जीवंत</word>
+    <word id="b2f94690-b19e-4483-8d57-b927ef97992f" color="white" tag="O" isEndTag="false">उदाहरण</word>
+    <word id="28dcabf0-31c7-4cef-8fe2-ec61440addec" color="white" tag="O" isEndTag="false">है।</word>
+</sentence>
+</paragraph>
